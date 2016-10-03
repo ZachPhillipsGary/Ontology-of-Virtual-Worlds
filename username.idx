@@ -1,41 +1,38 @@
 \indexentry{LaTeX@\LaTeX|hyperpage}{xii}
 \indexentry{commands!chapter|hyperpage}{2}
-\indexentry{commands!section|hyperpage}{2}
 \indexentry{commands!subsection|hyperpage}{2}
 \indexentry{commands!chapter|hyperpage}{2}
-\indexentry{commands!subsection|hyperpage}{2}
-\indexentry{commands!chapter|hyperpage}{3}
-\indexentry{commands!emph|hyperpage}{3}
-\indexentry{commands!textit|hyperpage}{3}
-\indexentry{commands!textbf|hyperpage}{3}
-\indexentry{lists|hyperpage}{3}
-\indexentry{lists!enumerated|hyperpage}{3}
+\indexentry{commands!emph|hyperpage}{2}
+\indexentry{commands!textit|hyperpage}{2}
+\indexentry{commands!textbf|hyperpage}{2}
+\indexentry{lists|hyperpage}{2}
+\indexentry{lists!enumerated|hyperpage}{2}
 \indexentry{lists!itemized|hyperpage}{3}
 \indexentry{lists!descriptive|hyperpage}{3}
 \indexentry{packages!amsthm|hyperpage}{3}
-\indexentry{packages!paralist|hyperpage}{4}
-\indexentry{commands!substack|hyperpage}{5}
-\indexentry{cases@\verb+cases+|hyperpage}{5}
-\indexentry{commands!intertext|hyperpage}{5}
+\indexentry{packages!paralist|hyperpage}{3}
+\indexentry{commands!substack|hyperpage}{4}
+\indexentry{cases@\verb+cases+|hyperpage}{4}
+\indexentry{commands!intertext|hyperpage}{4}
 \indexentry{pseudocode|hyperpage}{5}
 \indexentry{commands!lstlisting|hyperpage}{5}
-\indexentry{packages!listings|hyperpage}{6}
-\indexentry{packages!listings|hyperpage}{6}
-\indexentry{listings!mathescape|hyperpage}{6}
+\indexentry{packages!listings|hyperpage}{5}
+\indexentry{packages!listings|hyperpage}{5}
+\indexentry{listings!mathescape|hyperpage}{5}
 \indexentry{commands!lstlisting|hyperpage}{6}
-\indexentry{woosterthesis options!abstractonly|hyperpage}{8}
-\indexentry{woosterthesis options!alltt|hyperpage}{8}
-\indexentry{woosterthesis options!blacklinks|hyperpage}{8}
-\indexentry{woosterthesis options!code|hyperpage}{8}
-\indexentry{woosterthesis options!dropcaps|hyperpage}{8}
-\indexentry{woosterthesis options!euler|hyperpage}{8}
-\indexentry{woosterthesis options!guass|hyperpage}{8}
-\indexentry{woosterthesis options!index|hyperpage}{8}
-\indexentry{woosterthesis options!kaukecopyright|hyperpage}{8}
-\indexentry{woosterthesis options!palatino|hyperpage}{8}
-\indexentry{woosterthesis options!picins|hyperpage}{8}
-\indexentry{woosterthesis options!verbatim|hyperpage}{8}
-\indexentry{woosterthesis options!xetex|hyperpage}{8}
+\indexentry{woosterthesis options!abstractonly|hyperpage}{7}
+\indexentry{woosterthesis options!alltt|hyperpage}{7}
+\indexentry{woosterthesis options!blacklinks|hyperpage}{7}
+\indexentry{woosterthesis options!code|hyperpage}{7}
+\indexentry{woosterthesis options!dropcaps|hyperpage}{7}
+\indexentry{woosterthesis options!euler|hyperpage}{7}
+\indexentry{woosterthesis options!guass|hyperpage}{7}
+\indexentry{woosterthesis options!index|hyperpage}{7}
+\indexentry{woosterthesis options!kaukecopyright|hyperpage}{7}
+\indexentry{woosterthesis options!palatino|hyperpage}{7}
+\indexentry{woosterthesis options!picins|hyperpage}{7}
+\indexentry{woosterthesis options!verbatim|hyperpage}{7}
+\indexentry{woosterthesis options!xetex|hyperpage}{7}
 \indexentry{packages!listings|hyperpage}{8}
 \indexentry{packages!pxfonts|hyperpage}{8}
 \indexentry{packages!floatflt|hyperpage}{8}

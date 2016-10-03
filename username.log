@@ -1,11 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.7.27)  27 JUL 2016 15:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  1 OCT 2016 13:45
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **username.tex
 (./username.tex
-LaTeX2e <2016/03/31> patch level 2
+LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (./woosterthesis.cls
 Document Class: woosterthesis 2006/11/03 v4.2.1 Wooster IS LaTeX document class
@@ -17,48 +16,43 @@ Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/textpos/textpos.sty
-Package: textpos 2016/06/07 v1.8
+Package: textpos 2014/01/03 v1.7j
 
-Package: textpos 2016/06/07 1.8, absolute positioning of text on the page
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
-)
+Package: textpos 2014/01/03 1.7j, absolute positioning of text on the page
 \TP@textbox=\box26
 \TPHorizModule=\dimen102
 \TPVertModule=\dimen103
 \TP@margin=\dimen104
 \TP@absmargin=\dimen105
-
 Grid set 16 x 16 = 38.39343pt x 49.68562pt
 \TPboxrulesize=\dimen106
-\TP@tbargs=\toks15
+\TP@tbargs=\toks14
 \TP@prevdepth=\dimen107
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2015/03/04 v2.20.2
-\thm@style=\toks16
-\thm@bodyfont=\toks17
-\thm@headfont=\toks18
-\thm@notefont=\toks19
-\thm@headpunct=\toks20
+\thm@style=\toks15
+\thm@bodyfont=\toks16
+\thm@headfont=\toks17
+\thm@notefont=\toks18
+\thm@headpunct=\toks19
 \thm@preskip=\skip41
 \thm@postskip=\skip42
 \thm@headsep=\skip43
-\dth@everypar=\toks21
+\dth@everypar=\toks20
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks22
+\@emptytoks=\toks21
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2016/06/28 v2.15d AMS math features
+Package: amsmath 2016/03/10 v2.15b AMS math features
 \@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
@@ -67,7 +61,7 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks23
+\@emptytoks=\toks22
 \ex@=\dimen108
 ))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
@@ -97,21 +91,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 \dotsspace@=\muskip10
 \c@parentequation=\count86
 \dspbrk@lvl=\count87
-\tag@help=\toks24
+\tag@help=\toks23
 \row@=\count88
 \column@=\count89
 \maxfields@=\count90
-\andhelp@=\toks25
+\andhelp@=\toks24
 \eqnshift@=\dimen111
 \alignsep@=\dimen112
 \tagshift@=\dimen113
 \tagwidth@=\dimen114
 \totwidth@=\dimen115
 \lineht@=\dimen116
-\@envbody=\toks26
+\@envbody=\toks25
 \multlinegap=\skip45
 \multlinetaggap=\skip46
-\mathdisplay@stack=\toks27
+\mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
 )
@@ -132,19 +126,23 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks27
+)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 96.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -161,7 +159,7 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/atbegshi.sty
-Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
@@ -202,8 +200,7 @@ Package ifvtex Info: VTeX not detected.
 \Gm@layouthoffset=\dimen125
 \Gm@layoutvoffset=\dimen126
 \Gm@dimlist=\toks28
-
-(/Users/jonb/Library/texmf/tex/xelatex/geometry.cfg))
+)
 \c@part=\count95
 \c@chapter=\count96
 \c@section=\count97
@@ -333,10 +330,10 @@ Package eufrak Warning: The eufrak package is redundant if the amsfonts package
 \savefboxsep=\skip71
 \outdent=\skip72
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/pxfonts/pxfonts.sty
@@ -446,7 +443,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen152
 \captionmargin@=\dimen153
@@ -516,7 +513,7 @@ Package microtype Info: Loading configuration file microtype.cfg.
 File: microtype.cfg 2016/05/14 v2.6a microtype main configuration file (RS)
 ))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+Package: hyperref 2016/05/05 v6.83n Hypertext links for LaTeX
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
@@ -539,7 +536,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -572,32 +569,32 @@ Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 \Hy@pagecounter=\count131
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2016/05/05 v6.83n Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count132
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `pdfusetitle' set `true' on input line 4362.
-Package hyperref Info: Option `bookmarks' set `true' on input line 4362.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 4362.
-Package hyperref Info: Option `colorlinks' set `true' on input line 4362.
-Package hyperref Info: Option `plainpages' set `false' on input line 4362.
-Package hyperref Info: Option `linktocpage' set `true' on input line 4362.
-Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4362.
-Package hyperref Info: Option `hyperindex' set `true' on input line 4362.
-Package hyperref Info: Option `breaklinks' set `true' on input line 4362.
-Package hyperref Info: Hyper figures OFF on input line 4486.
-Package hyperref Info: Link nesting OFF on input line 4491.
-Package hyperref Info: Hyper index ON on input line 4494.
-Package hyperref Info: Plain pages OFF on input line 4501.
-Package hyperref Info: Backreferencing ON on input line 4504.
+Package hyperref Info: Option `pdfusetitle' set `true' on input line 4322.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4322.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4322.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4322.
+Package hyperref Info: Option `plainpages' set `false' on input line 4322.
+Package hyperref Info: Option `linktocpage' set `true' on input line 4322.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4322.
+Package hyperref Info: Option `hyperindex' set `true' on input line 4322.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4322.
+Package hyperref Info: Hyper figures OFF on input line 4446.
+Package hyperref Info: Link nesting OFF on input line 4451.
+Package hyperref Info: Hyper index ON on input line 4454.
+Package hyperref Info: Plain pages OFF on input line 4461.
+Package hyperref Info: Backreferencing ON on input line 4464.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4735.
+Package hyperref Info: Bookmarks ON on input line 4691.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/backref.sty
-Package: backref 2016/05/21 v1.39 Bibliographical back referencing
+Package: backref 2012/07/25 v1.38 Bibliographical back referencing
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
@@ -610,20 +607,20 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5088.
+LaTeX Info: Redefining \url on input line 5044.
 \XeTeXLinkMargin=\dimen163
 \Fld@menulength=\count134
 \Field@Width=\dimen164
 \Fld@charsize=\dimen165
-Package hyperref Info: Hyper figures OFF on input line 6342.
-Package hyperref Info: Link nesting OFF on input line 6347.
-Package hyperref Info: Hyper index ON on input line 6350.
-Package hyperref Info: backreferencing ON on input line 6355.
-Package hyperref Info: Link coloring ON on input line 6360.
-Package hyperref Info: Link coloring with OCG OFF on input line 6367.
-Package hyperref Info: PDF/A mode OFF on input line 6372.
-LaTeX Info: Redefining \ref on input line 6412.
-LaTeX Info: Redefining \pageref on input line 6416.
+Package hyperref Info: Hyper figures OFF on input line 6298.
+Package hyperref Info: Link nesting OFF on input line 6303.
+Package hyperref Info: Hyper index ON on input line 6306.
+Package hyperref Info: backreferencing ON on input line 6311.
+Package hyperref Info: Link coloring ON on input line 6316.
+Package hyperref Info: Link coloring with OCG OFF on input line 6323.
+Package hyperref Info: PDF/A mode OFF on input line 6328.
+LaTeX Info: Redefining \ref on input line 6368.
+LaTeX Info: Redefining \pageref on input line 6372.
 \Hy@abspage=\count135
 \c@Item=\count136
 \c@Hfootnote=\count137
@@ -632,7 +629,7 @@ LaTeX Info: Redefining \pageref on input line 6416.
 Package hyperref Message: Driver: hpdftex.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+File: hpdftex.def 2016/05/05 v6.83n Hyperref driver for pdfTeX
 \Fld@listcount=\count138
 \c@bookmark@seq@number=\count139
 \Hy@SectionHShift=\skip80
@@ -724,8 +721,6 @@ Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.jpg,.tif,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
@@ -798,7 +793,7 @@ Package backref Info: ** backref set up for natbib ** on input line 93.
 Package hyperref Info: Link coloring ON on input line 93.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
@@ -823,132 +818,6 @@ Package microtype Info: ... Loading protrusion list `ppl-sc-T1'.
 Package microtype Info: ... : First loading protrusion list `ppl-T1'.
 Package microtype Info: ... : First loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
-LaTeX Font Info:    Try loading font information for OT1+pxr on input line 102.
-
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/pxfonts/ot1pxr.fd
-File: ot1pxr.fd 2000/12/14 v1.0
-)
-Package microtype Info: Setting up font `OT1/pxr/m/n/14.4' on input line 102.
-Package microtype Info: ... Loading protrusion list `ppl-default'.
-Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `OT1/pxr/m/n/10' on input line 102.
-Package microtype Info: ... Loading protrusion list `ppl-default'.
-Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `OT1/pxr/m/n/7' on input line 102.
-Package microtype Info: ... Loading protrusion list `ppl-default'.
-Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: ... No configuration file mt-pxmi.cfg.
-Package microtype Info: Setting up font `OML/pxmi/m/it/14.4' on input line 102.
-
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OML/pxmi/m/it/10' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OML/pxmi/m/it/7' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: ... No configuration file mt-pxsy.cfg.
-Package microtype Info: Setting up font `OMS/pxsy/m/n/14.4' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMS/pxsy/m/n/10' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMS/pxsy/m/n/7' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: ... No configuration file mt-pxex.cfg.
-Package microtype Info: Setting up font `OMX/pxex/m/n/14.4' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMX/pxex/m/n/10' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMX/pxex/m/n/7' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-LaTeX Font Info:    Try loading font information for U+pxsya on input line 102.
-
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/pxfonts/upxsya.fd
-File: upxsya.fd 2000/12/14 v1.0
-)
-Package microtype Info: Setting up font `U/pxsya/m/n/14.4' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsya/m/n/10' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsya/m/n/7' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-LaTeX Font Info:    Try loading font information for U+pxsyb on input line 102.
-
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/pxfonts/upxsyb.fd
-File: utxsyb.fd 2000/12/14 v1.0
-)
-Package microtype Info: ... No configuration file mt-pxsyb.cfg.
-Package microtype Info: Setting up font `U/pxsyb/m/n/14.4' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsyb/m/n/10' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsyb/m/n/7' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OT1/pxr/m/it/14.4' on input line 102.
-Package microtype Info: ... Loading protrusion list `ppl-it'.
-Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `OT1/pxr/m/it/10' on input line 102.
-Package microtype Info: ... Loading protrusion list `ppl-it'.
-Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `OT1/pxr/m/it/7' on input line 102.
-Package microtype Info: ... Loading protrusion list `ppl-it'.
-Package microtype Info: ... Applying non-selected expansion (list `default').
-LaTeX Font Info:    Try loading font information for U+pxmia on input line 102.
-
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/pxfonts/upxmia.fd
-File: upxmia.fd 2000/12/14 v1.0
-)
-Package microtype Info: Setting up font `U/pxmia/m/it/14.4' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxmia/m/it/10' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxmia/m/it/7' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-LaTeX Font Info:    Try loading font information for U+pxsyc on input line 102.
-
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/pxfonts/upxsyc.fd
-File: upxsyc.fd 2000/12/14 v1.0
-)
-Package microtype Info: ... No configuration file mt-pxsyc.cfg.
-Package microtype Info: Setting up font `U/pxsyc/m/n/14.4' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsyc/m/n/10' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsyc/m/n/7' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxexa/m/n/14.4' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxexa/m/n/10' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxexa/m/n/7' on input line 102.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
 Package microtype Info: Setting up font `T1/pxr/bx/n/10' on input line 102.
 Package microtype Info: ... Loading protrusion list `ppl-T1'.
 Package microtype Info: ... : First loading protrusion list `ppl-default'.
@@ -958,31 +827,30 @@ Overfull \hbox (2.50375pt too wide) in paragraph at lines 102--102
   [] 
  []
 
-<kauke_arch_gray.pdf, id=148, 202.3556pt x 289.08pt>
-File: kauke_arch_gray.pdf Graphic file (type pdf)
- <use kauke_arch_gray.pdf>
-Package pdftex.def Info: kauke_arch_gray.pdf used on input line 102.
+<./figures/kauke_arch_gray.pdf, id=148, 202.3556pt x 289.08pt>
+File: ./figures/kauke_arch_gray.pdf Graphic file (type pdf)
+
+<use ./figures/kauke_arch_gray.pdf>
+Package pdftex.def Info: ./figures/kauke_arch_gray.pdf used on input line 102.
 (pdftex.def)             Requested size: 556.50735pt x 795.01213pt.
-
-[1
-
+ [1
 
 
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/
-jonb/Library/texmf/tex/latex/wooster/kauke_arch_gray.pdf>]pdfTeX warning (ext4)
-: destination with the same identifier (name{page.i}) has been already used, du
-plicate ignored
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figur
+es/kauke_arch_gray.pdf>]pdfTeX warning (ext4): destination with the same identi
+fier (name{page.i}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.103 ...rpage\thispagestyle{empty}\null\clearpage
                                                    [1
 
 ]
-<kauke_wordmark.pdf, id=187, 320.06438pt x 398.97574pt>
-File: kauke_wordmark.pdf Graphic file (type pdf)
+<./figures/kauke_wordmark.pdf, id=187, 320.06438pt x 398.97574pt>
+File: ./figures/kauke_wordmark.pdf Graphic file (type pdf)
 
-<use kauke_wordmark.pdf>
-Package pdftex.def Info: kauke_wordmark.pdf used on input line 104.
+<use ./figures/kauke_wordmark.pdf>
+Package pdftex.def Info: ./figures/kauke_wordmark.pdf used on input line 104.
 (pdftex.def)             Requested size: 128.02347pt x 159.58746pt.
 LaTeX Font Info:    Try loading font information for OMS+pxr on input line 104.
 
@@ -992,10 +860,14 @@ File: omspxr.fd 2000/12/14 v1.0
 )
 LaTeX Font Info:    Font shape `OMS/pxr/m/n' in size <10> not available
 (Font)              Font shape `OMS/pxsy/m/n' tried instead on input line 104.
+Package microtype Info: ... No configuration file mt-pxsy.cfg.
+Package microtype Info: Setting up font `OMS/pxsy/m/n/10' on input line 104.
+Package microtype Info: ... No protrusion.
+Package microtype Info: ... No expansion.
  [2
 
 
- </Users/jonb/Library/texmf/tex/latex/wooster/kauke_wordmark.pdf>]
+ <./figures/kauke_wordmark.pdf>]
 Package microtype Info: Setting up font `T1/pxr/m/sc/20' on input line 112.
 Package microtype Info: ... Loading protrusion list `ppl-sc-T1'.
 Package microtype Info: ... : First loading protrusion list `ppl-T1'.
@@ -1014,40 +886,126 @@ Package microtype Info: ... Applying non-selected expansion (list `default').
 
 ] [6
 
-]
-(./username.toc
+] (./username.toc
+LaTeX Font Info:    Try loading font information for OT1+pxr on input line 13.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pxfonts/ot1pxr.fd
+File: ot1pxr.fd 2000/12/14 v1.0
+)
+Package microtype Info: Setting up font `OT1/pxr/m/n/10' on input line 13.
+Package microtype Info: ... Loading protrusion list `ppl-default'.
+Package microtype Info: ... Applying non-selected expansion (list `default').
+Package microtype Info: Setting up font `OT1/pxr/m/n/7' on input line 13.
+Package microtype Info: ... Loading protrusion list `ppl-default'.
+Package microtype Info: ... Applying non-selected expansion (list `default').
 Package microtype Info: Setting up font `OT1/pxr/m/n/5' on input line 13.
 Package microtype Info: ... Loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
+Package microtype Info: ... No configuration file mt-pxmi.cfg.
+Package microtype Info: Setting up font `OML/pxmi/m/it/10' on input line 13.
+Package microtype Info: ... No protrusion.
+Package microtype Info: ... No expansion.
+Package microtype Info: Setting up font `OML/pxmi/m/it/7' on input line 13.
+Package microtype Info: ... No protrusion.
+Package microtype Info: ... No expansion.
 Package microtype Info: Setting up font `OML/pxmi/m/it/5' on input line 13.
+Package microtype Info: ... No protrusion.
+Package microtype Info: ... No expansion.
+Package microtype Info: Setting up font `OMS/pxsy/m/n/7' on input line 13.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
 Package microtype Info: Setting up font `OMS/pxsy/m/n/5' on input line 13.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
+Package microtype Info: ... No configuration file mt-pxex.cfg.
+Package microtype Info: Setting up font `OMX/pxex/m/n/10' on input line 13.
+Package microtype Info: ... No protrusion.
+Package microtype Info: ... No expansion.
+Package microtype Info: Setting up font `OMX/pxex/m/n/7' on input line 13.
+Package microtype Info: ... No protrusion.
+Package microtype Info: ... No expansion.
 Package microtype Info: Setting up font `OMX/pxex/m/n/5' on input line 13.
+Package microtype Info: ... No protrusion.
+Package microtype Info: ... No expansion.
+LaTeX Font Info:    Try loading font information for U+pxsya on input line 13.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pxfonts/upxsya.fd
+File: upxsya.fd 2000/12/14 v1.0
+)
+Package microtype Info: Setting up font `U/pxsya/m/n/10' on input line 13.
+Package microtype Info: ... No protrusion.
+Package microtype Info: ... No expansion.
+Package microtype Info: Setting up font `U/pxsya/m/n/7' on input line 13.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
 Package microtype Info: Setting up font `U/pxsya/m/n/5' on input line 13.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
+LaTeX Font Info:    Try loading font information for U+pxsyb on input line 13.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pxfonts/upxsyb.fd
+File: utxsyb.fd 2000/12/14 v1.0
+)
+Package microtype Info: ... No configuration file mt-pxsyb.cfg.
+Package microtype Info: Setting up font `U/pxsyb/m/n/10' on input line 13.
+Package microtype Info: ... No protrusion.
+Package microtype Info: ... No expansion.
+Package microtype Info: Setting up font `U/pxsyb/m/n/7' on input line 13.
+Package microtype Info: ... No protrusion.
+Package microtype Info: ... No expansion.
 Package microtype Info: Setting up font `U/pxsyb/m/n/5' on input line 13.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
+Package microtype Info: Setting up font `OT1/pxr/m/it/10' on input line 13.
+Package microtype Info: ... Loading protrusion list `ppl-it'.
+Package microtype Info: ... Applying non-selected expansion (list `default').
+Package microtype Info: Setting up font `OT1/pxr/m/it/7' on input line 13.
+Package microtype Info: ... Loading protrusion list `ppl-it'.
+Package microtype Info: ... Applying non-selected expansion (list `default').
 Package microtype Info: Setting up font `OT1/pxr/m/it/5' on input line 13.
 Package microtype Info: ... Loading protrusion list `ppl-it'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
+LaTeX Font Info:    Try loading font information for U+pxmia on input line 13.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pxfonts/upxmia.fd
+File: upxmia.fd 2000/12/14 v1.0
+)
+Package microtype Info: Setting up font `U/pxmia/m/it/10' on input line 13.
+Package microtype Info: ... No protrusion.
+Package microtype Info: ... No expansion.
+Package microtype Info: Setting up font `U/pxmia/m/it/7' on input line 13.
+Package microtype Info: ... No protrusion.
+Package microtype Info: ... No expansion.
 Package microtype Info: Setting up font `U/pxmia/m/it/5' on input line 13.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
+LaTeX Font Info:    Try loading font information for U+pxsyc on input line 13.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pxfonts/upxsyc.fd
+File: upxsyc.fd 2000/12/14 v1.0
+)
+Package microtype Info: ... No configuration file mt-pxsyc.cfg.
+Package microtype Info: Setting up font `U/pxsyc/m/n/10' on input line 13.
+Package microtype Info: ... No protrusion.
+Package microtype Info: ... No expansion.
+Package microtype Info: Setting up font `U/pxsyc/m/n/7' on input line 13.
+Package microtype Info: ... No protrusion.
+Package microtype Info: ... No expansion.
 Package microtype Info: Setting up font `U/pxsyc/m/n/5' on input line 13.
+Package microtype Info: ... No protrusion.
+Package microtype Info: ... No expansion.
+Package microtype Info: Setting up font `U/pxexa/m/n/10' on input line 13.
+Package microtype Info: ... No protrusion.
+Package microtype Info: ... No expansion.
+Package microtype Info: Setting up font `U/pxexa/m/n/7' on input line 13.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
 Package microtype Info: Setting up font `U/pxexa/m/n/5' on input line 13.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
 LaTeX Font Info:    Try loading font information for T1+pxtt on input line 16.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/pxfonts/t1pxtt.fd
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pxfonts/t1pxtt.fd
 File: t1pxtt.fd 2000/12/14 v1.0
 )
 Package microtype Info: ... No configuration file mt-pxtt.cfg.
@@ -1066,7 +1024,8 @@ Package microtype Info: ... Applying non-selected expansion (list `default').
 \tf@toc=\write6
 \openout6 = `username.toc'.
 
- [8] (./username.lof)
+ [8]
+(./username.lof)
 \tf@lof=\write7
 \openout7 = `username.lof'.
 
@@ -1098,6 +1057,30 @@ Package microtype Info: Setting up font `T1/pxr/m/n/7' on input line 4.
 Package microtype Info: ... Loading protrusion list `ppl-T1'.
 Package microtype Info: ... : First loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
+
+
+Package natbib Warning: Citation `mgbcr04' on page xii undefined on input line 
+8.
+
+
+Package natbib Warning: Citation `kd03' on page xii undefined on input line 8.
+
+
+Package natbib Warning: Citation `ophs03' on page xii undefined on input line 8
+.
+
+
+Package natbib Warning: Citation `feu02' on page xii undefined on input line 8.
+
+
+
+Package natbib Warning: Citation `fly03' on page xii undefined on input line 8.
+
+
+
+Package natbib Warning: Citation `gra96' on page xii undefined on input line 8.
+
+
 ) [12
 
 ] (./chapters/introduction.tex
@@ -1116,23 +1099,22 @@ Package microtype Info: ... Applying non-selected expansion (list `default').
 ]
 CHAPTER 2.
 
-Overfull \hbox (25.73895pt too wide) in paragraph at lines 14--15
+Overfull \hbox (25.73895pt too wide) in paragraph at lines 9--10
 \T1/pxtt/m/n/10 (-20) section]{An example of making a new section and giving it
  a short name}$\OMS/pxsy/m/n/10 n$\T1/pxtt/m/n/10 (-20) label{sec:newsec}\T1/px
 r/m/n/10 (-20) .
  []
 
-[2
-
-]
 \openout3 = `username.exa'.
 
-Package microtype Info: Setting up font `T1/pxtt/m/n/9' on input line 30.
+Package microtype Info: Setting up font `T1/pxtt/m/n/9' on input line 25.
 Package microtype Info: ... Loading protrusion list `T1-default'.
 Package microtype Info: ... : First loading protrusion list `default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
 File: username.exa  (verbatim)
- (./username.exa)
+(./username.exa) [2
+
+]
 \openout3 = `username.exa'.
 
 File: username.exa  (verbatim)
@@ -1149,18 +1131,22 @@ Package microtype Info: ... Loading protrusion list `ppl-T1'.
 Package microtype Info: ... : First loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
 )
-Package microtype Info: Setting up font `T1/pxr/m/sl/10' on input line 59.
+
+Package natbib Warning: Citation `mgbcr04' on page 3 undefined on input line 53
+.
+
+
+LaTeX Warning: Reference `bdef1' on page 3 undefined on input line 56.
+
+Package microtype Info: Setting up font `T1/pxr/m/sl/10' on input line 57.
 Package microtype Info: ... Loading protrusion list `ppl-it-T1'.
 Package microtype Info: ... : First loading protrusion list `ppl-it'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
- [3]
-
-LaTeX Warning: Reference `bdef1' on page 4 undefined on input line 61.
-
+[3]
 \openout3 = `username.exa'.
 
 File: username.exa  (verbatim)
-(./username.exa
+ (./username.exa
 Package microtype Info: Setting up font `T1/pxr/m/it/7' on input line 1.
 Package microtype Info: ... Loading protrusion list `ppl-it-T1'.
 Package microtype Info: ... : First loading protrusion list `ppl-it'.
@@ -1177,7 +1163,6 @@ File: username.exa  (verbatim)
  (./username.exa)
 \openout3 = `username.exa'.
 
- [4]
 File: username.exa  (verbatim)
  (./username.exa
 Package microtype Info: Setting up font `OT1/pxr/bx/n/7' on input line 12.
@@ -1187,7 +1172,7 @@ Package microtype Info: Setting up font `OT1/pxr/bx/n/5' on input line 12.
 Package microtype Info: ... Loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
 )
-Package microtype Info: Setting up font `OT1/pxr/bx/n/10' on input line 108.
+Package microtype Info: Setting up font `OT1/pxr/bx/n/10' on input line 103.
 Package microtype Info: ... Loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
 \openout3 = `username.exa'.
@@ -1199,94 +1184,94 @@ Package microtype Info: ... Loading protrusion list `ppl-T1'.
 Package microtype Info: ... : First loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
 )
+[4]
 \openout3 = `username.exa'.
 
 File: username.exa  (verbatim)
-
-(./username.exa)
+ (./username.exa)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 ) [5]
-Package microtype Info: Setting up font `T1/pxr/bx/n/9' on input line 189.
+Package microtype Info: Setting up font `T1/pxr/bx/n/9' on input line 184.
 Package microtype Info: ... Loading protrusion list `ppl-T1'.
 Package microtype Info: ... : First loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `OT1/pxr/m/n/9' on input line 189.
+Package microtype Info: Setting up font `OT1/pxr/m/n/9' on input line 184.
 Package microtype Info: ... Loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `OT1/pxr/m/n/6' on input line 189.
+Package microtype Info: Setting up font `OT1/pxr/m/n/6' on input line 184.
 Package microtype Info: ... Loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `OML/pxmi/m/it/9' on input line 189.
+Package microtype Info: Setting up font `OML/pxmi/m/it/9' on input line 184.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OML/pxmi/m/it/6' on input line 189.
+Package microtype Info: Setting up font `OML/pxmi/m/it/6' on input line 184.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMS/pxsy/m/n/9' on input line 189.
+Package microtype Info: Setting up font `OMS/pxsy/m/n/9' on input line 184.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMS/pxsy/m/n/6' on input line 189.
+Package microtype Info: Setting up font `OMS/pxsy/m/n/6' on input line 184.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMX/pxex/m/n/9' on input line 189.
+Package microtype Info: Setting up font `OMX/pxex/m/n/9' on input line 184.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMX/pxex/m/n/6' on input line 189.
+Package microtype Info: Setting up font `OMX/pxex/m/n/6' on input line 184.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OT1/pxr/bx/n/9' on input line 189.
+Package microtype Info: Setting up font `OT1/pxr/bx/n/9' on input line 184.
 Package microtype Info: ... Loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `OT1/pxr/bx/n/6' on input line 189.
+Package microtype Info: Setting up font `OT1/pxr/bx/n/6' on input line 184.
 Package microtype Info: ... Loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `U/pxsya/m/n/9' on input line 189.
+Package microtype Info: Setting up font `U/pxsya/m/n/9' on input line 184.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsya/m/n/6' on input line 189.
+Package microtype Info: Setting up font `U/pxsya/m/n/6' on input line 184.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsyb/m/n/9' on input line 189.
+Package microtype Info: Setting up font `U/pxsyb/m/n/9' on input line 184.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsyb/m/n/6' on input line 189.
+Package microtype Info: Setting up font `U/pxsyb/m/n/6' on input line 184.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OT1/pxr/m/it/9' on input line 189.
+Package microtype Info: Setting up font `OT1/pxr/m/it/9' on input line 184.
 Package microtype Info: ... Loading protrusion list `ppl-it'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `OT1/pxr/m/it/6' on input line 189.
+Package microtype Info: Setting up font `OT1/pxr/m/it/6' on input line 184.
 Package microtype Info: ... Loading protrusion list `ppl-it'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `U/pxmia/m/it/9' on input line 189.
+Package microtype Info: Setting up font `U/pxmia/m/it/9' on input line 184.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxmia/m/it/6' on input line 189.
+Package microtype Info: Setting up font `U/pxmia/m/it/6' on input line 184.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsyc/m/n/9' on input line 189.
+Package microtype Info: Setting up font `U/pxsyc/m/n/9' on input line 184.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsyc/m/n/6' on input line 189.
+Package microtype Info: Setting up font `U/pxsyc/m/n/6' on input line 184.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxexa/m/n/9' on input line 189.
+Package microtype Info: Setting up font `U/pxexa/m/n/9' on input line 184.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxexa/m/n/6' on input line 189.
+Package microtype Info: Setting up font `U/pxexa/m/n/6' on input line 184.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
 
-[6] [7]
-Package microtype Info: Setting up font `T1/pxtt/m/sc/14.4' on input line 273.
+[6]
+Package microtype Info: Setting up font `T1/pxtt/m/sc/14.4' on input line 268.
 Package microtype Info: ... Loading protrusion list `T1-sc'.
 Package microtype Info: ... : First loading protrusion list `T1-default'.
 Package microtype Info: ... : First loading protrusion list `default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
-) (./chapters/chapter2.tex [8]
+) (./chapters/chapter2.tex [7] [8]
 CHAPTER 3.
-<./figures/picture3.pdf, id=482, 144.54pt x 144.54pt>
+<./figures/picture3.pdf, id=469, 144.54pt x 144.54pt>
 File: ./figures/picture3.pdf Graphic file (type pdf)
 
 <use ./figures/picture3.pdf>
@@ -1295,7 +1280,7 @@ Package pdftex.def Info: ./figures/picture3.pdf used on input line 27.
  [9
 
  <./figures/picture3.pdf>]
-<./figures/picture2.pdf, id=525, 352.31625pt x 273.02pt>
+<./figures/picture2.pdf, id=512, 352.31625pt x 273.02pt>
 File: ./figures/picture2.pdf Graphic file (type pdf)
 
 <use ./figures/picture2.pdf>
@@ -1317,7 +1302,7 @@ Underfull \hbox (badness 2165) in paragraph at lines 80--81
  []
 
 [10 <./figures/picture2.pdf>]
-<./figures/picture1.pdf, id=543, 349.305pt x 399.4925pt>
+<./figures/picture1.pdf, id=530, 349.305pt x 399.4925pt>
 File: ./figures/picture1.pdf Graphic file (type pdf)
 
 <use ./figures/picture1.pdf>
@@ -1336,13 +1321,57 @@ File: ./figures/picture2.pdf Graphic file (type pdf)
  <use ./figures/picture2.pdf>
 Package pdftex.def Info: ./figures/picture2.pdf used on input line 138.
 (pdftex.def)             Requested size: 140.924pt x 109.20605pt.
- [12]
-[13]) (./chapters/chapter3.tex [14]
+
+
+Package natbib Warning: Citation `kd03' on page 12 undefined on input line 144.
+
+
+
+Package natbib Warning: Citation `mgbcr04' on page 12 undefined on input line 1
+44.
+
+[12] [13]
+
+Package natbib Warning: Citation `kd03' on page 14 undefined on input line 252.
+
+
+) (./chapters/chapter3.tex [14]
 CHAPTER 4.
+
+Package natbib Warning: Citation `mgbcr04' on page 15 undefined on input line 4
+4.
+
+
+Package natbib Warning: Citation `mgbcr04' on page 15 undefined on input line 4
+4.
+
+
+Package natbib Warning: Citation `mgbcr04' on page 15 undefined on input line 4
+4.
+
+
+Package natbib Warning: Citation `kd03' on page 15 undefined on input line 44.
+
+
+Package natbib Warning: Citation `mgbcr04' on page 15 undefined on input line 4
+4.
+
 [15
 
-]) [16] (./appendices/math.tex
+]
+
+Package natbib Warning: Citation `kd03' on page 16 undefined on input line 48.
+
+
+Package natbib Warning: Citation `mgbcr04' on page 16 undefined on input line 4
+8.
+
+) [16] (./appendices/math.tex
 APPENDIX A.
+
+Package natbib Warning: Citation `ophs03' on page 17 undefined on input line 9.
+
+
 \openout3 = `username.exa'.
 
 File: username.exa  (verbatim)
@@ -1388,10 +1417,14 @@ File: username.exa  (verbatim)
 
 File: username.exa  (verbatim)
  (./username.exa)
+
+Package natbib Warning: Citation `kd03' on page 19 undefined on input line 167.
+
+
 \openout3 = `username.exa'.
 
 File: username.exa  (verbatim)
- (./username.exa)
+(./username.exa)
 \openout3 = `username.exa'.
 
 File: username.exa  (verbatim)
@@ -1399,42 +1432,53 @@ File: username.exa  (verbatim)
 \openout3 = `username.exa'.
 
 File: username.exa  (verbatim)
+ (./username.exa)
+\openout3 = `username.exa'.
 
+File: username.exa  (verbatim)
+ (./username.exa)
+\openout3 = `username.exa'.
+
+File: username.exa  (verbatim)
+
+(./username.exa)
+
+Package natbib Warning: Citation `kd03' on page 20 undefined on input line 231.
+
+
+\openout3 = `username.exa'.
+
+File: username.exa  (verbatim)
+(./username.exa)
+\openout3 = `username.exa'.
+
+File: username.exa  (verbatim)
+ (./username.exa) [20]
+\openout3 = `username.exa'.
+
+File: username.exa  (verbatim)
+ (./username.exa)
+\openout3 = `username.exa'.
+
+File: username.exa  (verbatim)
+ (./username.exa)
+
+Package natbib Warning: Citation `mgbcr04' on page 21 undefined on input line 3
+01.
+
+\openout3 = `username.exa'.
+
+File: username.exa  (verbatim)
 (./username.exa)
 \openout3 = `username.exa'.
 
 File: username.exa  (verbatim)
  (./username.exa)
-\openout3 = `username.exa'.
 
-File: username.exa  (verbatim)
- (./username.exa)
-\openout3 = `username.exa'.
+Package natbib Warning: Citation `kd03' on page 21 undefined on input line 332.
 
-File: username.exa  (verbatim)
- (./username.exa)
-\openout3 = `username.exa'.
 
-File: username.exa  (verbatim)
-
-(./username.exa) [20]
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
-
-(./username.exa) [21]
+[21]
 \openout3 = `username.exa'.
 
 File: username.exa  (verbatim)
@@ -1450,8 +1494,8 @@ File: username.exa  (verbatim)
 \openout3 = `username.exa'.
 
 File: username.exa  (verbatim)
-
-(./username.exa) [22]
+ (./username.exa)
+[22]
 \openout3 = `username.exa'.
 
 File: username.exa  (verbatim)
@@ -1463,8 +1507,7 @@ File: username.exa  (verbatim)
 \openout3 = `username.exa'.
 
 File: username.exa  (verbatim)
- (./username.exa)
-[23]
+ (./username.exa) [23]
 \openout3 = `username.exa'.
 
 File: username.exa  (verbatim)
@@ -1472,7 +1515,8 @@ File: username.exa  (verbatim)
 \openout3 = `username.exa'.
 
 File: username.exa  (verbatim)
- (./username.exa)
+
+(./username.exa)
 \openout3 = `username.exa'.
 
 File: username.exa  (verbatim)
@@ -1484,13 +1528,13 @@ File: username.exa  (verbatim)
 \openout3 = `username.exa'.
 
 File: username.exa  (verbatim)
-
-(./username.exa)
+ (./username.exa)
 \openout3 = `username.exa'.
 
 File: username.exa  (verbatim)
- (./username.exa) [25pdfTeX warning (ext4): destination with the same identifie
-r (name{equation.A.5.8}) has been already used, duplicate ignored
+
+(./username.exa) [25pdfTeX warning (ext4): destination with the same identifier
+ (name{equation.A.5.8}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -1574,7 +1618,13 @@ Package microtype Info: ... No expansion.
 \openout3 = `username.exa'.
 
 File: username.exa  (verbatim)
- (./username.exa) [27] [28]
+ (./username.exa) [27]
+Overfull \hbox (36.03802pt too wide) in paragraph at lines 710--718
+\T1/pxr/m/n/10 (-20) fonts are not in-stalled, on your sys-tem, have a look at 
+\T1/pxtt/m/n/10 (-20) CTAN:/tex-archive/macros/latex/required/amslatex 
+ []
+
+[28]
 
 LaTeX Warning: Text page 29 contains only floats.
 
@@ -1651,7 +1701,64 @@ LaTeX Font Info:    Font shape `OMS/pxr/m/it' in size <9> not available
 \openout10 = `username.brf'.
 
 
-[43]) [44
+[43])
+Runaway argument?
+ Johnny~Hartz S\oraker . \newblock Virtual worlds and their challenge\ETC.
+! File ended while scanning use of \BR@@lbibitem.
+<inserted text> 
+                \par 
+l.260 \bibliography{references}
+                                % load our Bibliography file
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+! Undefined control sequence.
+<write> ...WA}{{\the \c@NAT@ctr }{2012}{{S\oraker 
+                                                  }}{{}}}
+l.260 \bibliography{references}
+                                % load our Bibliography file
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument>  Johnny~Hartz S\oraker 
+                                  . \newblock Virtual worlds and their chall...
+l.260 \bibliography{references}
+                                % load our Bibliography file
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...g the \textquotedblleftintravirtual 
+                                                  \textquotedblright and the...
+l.260 \bibliography{references}
+                                % load our Bibliography file
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...d the \textquotedblleftextravirtual 
+                                                  \textquotedblright . \newb...
+l.260 \bibliography{references}
+                                % load our Bibliography file
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[44
 
 ] (./username.ind [45
 
@@ -1660,15 +1767,18 @@ LaTeX Font Info:    Font shape `OMS/pxr/m/it' in size <9> not available
 
 
 ]
+
+Package natbib Warning: There were undefined citations.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 305.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 305.
- (./username.aux)
+(./username.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 305.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 305.
 Package rerunfilecheck Info: File `username.out' has not changed.
-(rerunfilecheck)             Checksum: AE2FDB90462EF634681E61B510C84A9F;2192.
+(rerunfilecheck)             Checksum: 0DA0C15095D07B69D4E02336FA6510BA;2170.
 Package rerunfilecheck Info: File `username.brf' has not changed.
-(rerunfilecheck)             Checksum: 87DB27D53669419D9A9B5DA97A04E4AC;960.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Warning: There were undefined references.
@@ -1676,37 +1786,39 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 305.
  ) 
 Here is how much of TeX's memory you used:
- 15177 strings out of 493013
- 218894 string characters out of 6133343
- 459570 words of memory out of 5000000
- 17183 multiletter control sequences out of 15000+600000
- 93079 words of font info for 526 fonts, out of 8000000 for 9000
+ 15131 strings out of 493014
+ 219185 string characters out of 6133351
+ 458343 words of memory out of 5000000
+ 17143 multiletter control sequences out of 15000+600000
+ 89697 words of font info for 515 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,23n,67p,1957b,1788s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2016/texmf-dist/fonts/type1/public/amsfonts/euler/eusm10.pfb></usr/local
-/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></Us
-ers/jonb/Library/texmf/fonts/type1/public/pxfonts/pxex.pfb></Users/jonb/Library
-/texmf/fonts/type1/public/pxfonts/pxexa.pfb></Users/jonb/Library/texmf/fonts/ty
-pe1/public/pxfonts/pxmia.pfb></Users/jonb/Library/texmf/fonts/type1/public/pxfo
-nts/pxsy.pfb></Users/jonb/Library/texmf/fonts/type1/public/pxfonts/pxsya.pfb></
-Users/jonb/Library/texmf/fonts/type1/public/pxfonts/pxsyb.pfb></Users/jonb/Libr
-ary/texmf/fonts/type1/public/pxfonts/pxsyc.pfb></Users/jonb/Library/texmf/fonts
-/type1/public/pxfonts/rpxbmi.pfb></Users/jonb/Library/texmf/fonts/type1/public/
-pxfonts/rpxi.pfb></Users/jonb/Library/texmf/fonts/type1/public/pxfonts/rpxmi.pf
-b></Users/jonb/Library/texmf/fonts/type1/public/pxfonts/rpxr.pfb></Users/jonb/L
-ibrary/texmf/fonts/type1/public/pxfonts/rpxr.pfb></Users/jonb/Library/texmf/fon
-ts/type1/public/pxfonts/rpxsc.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
-e1/public/txfonts/t1xtt.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
-lic/txfonts/t1xttsc.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/pal
-atino/uplb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/u
-plbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.
-pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on username.pdf (60 pages, 1065833 bytes).
+/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/pxfonts/pxex.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/pxfonts/pxexa.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/pxfonts/pxmia.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/pxfonts/pxsy.pfb></usr/local/texlive/2016/texmf
+-dist/fonts/type1/public/pxfonts/pxsya.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/pxfonts/pxsyb.pfb></usr/local/texlive/2016/texmf-dist/fonts/
+type1/public/pxfonts/pxsyc.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
+public/pxfonts/rpxbmi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
+c/pxfonts/rpxi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/pxfon
+ts/rpxmi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/pxfonts/rpx
+r.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/pxfonts/rpxr.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/pxfonts/rpxsc.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/txfonts/t1xttsc.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2016/texmf
+-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/f
+onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
+pe1/urw/palatino/uplri8a.pfb>
+Output written on username.pdf (60 pages, 1061464 bytes).
 PDF statistics:
- 1404 PDF objects out of 1440 (max. 8388607)
- 1266 compressed objects within 13 object streams
+ 1357 PDF objects out of 1440 (max. 8388607)
+ 1219 compressed objects within 13 object streams
  457 named destinations out of 1000 (max. 500000)
- 158010 words of extra memory for PDF output out of 184870 (max. 10000000)
+ 153914 words of extra memory for PDF output out of 154059 (max. 10000000)
 

@@ -9,11 +9,11 @@
 \contentsline {chapter}{Preface}{xii}{chapter*.10}
 \vskip .66\baselineskip \relax \hbox to \hsize {CHAPTER \hfil PAGE}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
-\contentsline {chapter}{\numberline {2}In the beginning: Knuth said ``Let there be T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}''}{2}{chapter.2}
+\contentsline {chapter}{\numberline {2}Idealism and Virtual Worlds}{2}{chapter.2}
 \contentsline {section}{\numberline {2.1}My new section}{2}{section.2.1}
-\contentsline {section}{\numberline {2.2}Theorems, definitions, examples, oh my!}{4}{section.2.2}
+\contentsline {section}{\numberline {2.2}Theorems, definitions, examples, oh my!}{3}{section.2.2}
 \contentsline {section}{\numberline {2.3}Putting code in the main body of the thesis}{5}{section.2.3}
-\contentsline {section}{\numberline {2.4}What is in \texttt {username.tex}}{8}{section.2.4}
+\contentsline {section}{\numberline {2.4}What is in \texttt {username.tex}}{7}{section.2.4}
 \contentsline {chapter}{\numberline {3}Working with figures and tables}{9}{chapter.3}
 \contentsline {section}{\numberline {3.1}Getting a simple figure in the document}{9}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}Minipages}{10}{subsection.3.1.1}
